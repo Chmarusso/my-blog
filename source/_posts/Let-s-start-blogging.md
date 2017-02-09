@@ -3,7 +3,7 @@ title: Let's start blogging
 date: 2016-10-29 10:52:00
 tags: hexo node.js js
 intro: If you want to start blogging and you are scared of monsters like Wordpress this post is for you. Inside you can find introduction to Hexo - blazing fast blog framework written in Node.js
-cover: dupa
+cover: /images/lets-start.jpg
 ---
 I always wanted to have my own technical blog. As an IT guy I started from searching for a proper tool that will help me in my everyday (hope so) blogging.
 In order to choose proper tool wisely we need to have clear requirements and
