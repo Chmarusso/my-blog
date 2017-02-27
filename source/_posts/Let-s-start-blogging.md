@@ -1,7 +1,10 @@
 ---
 title: Let's start blogging
 date: 2016-10-29 10:52:00
-tags: hexo node.js js
+tags:
+- hexo
+- node.js
+- js
 intro: If you want to start blogging and you are scared of monsters like Wordpress this post is for you. Inside you can find introduction to Hexo - blazing fast blog framework written in Node.js
 cover: /images/lets-start.jpg
 ---
