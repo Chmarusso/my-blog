@@ -1,5 +1,5 @@
 ---
-title: Backup your whole filesystem sing Rsnapshot
+title: Backup your whole filesystem using Rsnapshot
 date: 2017-04-15 16:55:53
 tags:
 - dajsiepoznac2017
