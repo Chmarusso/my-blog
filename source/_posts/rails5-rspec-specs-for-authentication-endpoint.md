@@ -1,5 +1,5 @@
 ---
-title: Rails5/Capybara - Specs for authentication endpoint
+title: Rails5/Rspec - Specs for authentication endpoint
 date: 2017-04-09 15:19:00
 tags:
 - ruby
@@ -8,7 +8,7 @@ tags:
 - capybara
 - dajsiepoznac2017
 - getnoticed
-intro: Capybara acceptance tests for authentication endpoint.
+intro: Rspec tests for authentication endpoint.
 cover: /images/rails5-auth-specs.jpg
 ---
 Couple days ago I've posted a short tutorial about creating an endpoint for authentication in Rails5. That tutorial did not cover very important part of writing tests. Today I want to get back and write some tests for it. In Ruby on Rails you may use many tools for testing, but my favorite combination is [Rspec](https://github.com/rspec/rspec-rails), [FactoryGirl](https://github.com/thoughtbot/factory_girl) and [Capybara](https://github.com/teamcapybara/capybara).
