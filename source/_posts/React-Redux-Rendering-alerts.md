@@ -8,7 +8,7 @@ tags:
 - redux
 - javascript
 - js
-intro: Today I learned how to call API endpoint and dispatch action with results using redux and redux-thunk.
+intro: Today I added Alert component to my training app (WebChatter).
 cover: /images/redux-thunk-react.jpg
 ---
 Couple weeks ago I've [added to my application](/2017/04/16/Call-API-from-React-component/) an authentication form. It was working fine, but error handling was not implemented as it should (everyone would agree that `console.log` is not the very best way of letting know user about unsuccessful login attempt). I decided to fix this by introducing to my application new React component that is responsible for rendering errors and notices to users. 
@@ -150,7 +150,7 @@ export default class BaseLayout extends BaseComponent {
   static propTypes = {
     children: PropTypes.object.isRequired,
   };
-  
+
   render() {
     return (
       <div>
